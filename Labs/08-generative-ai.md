@@ -89,7 +89,7 @@ This exercise will take approximately **30** minutes to complete.
 
 ### Task 2.2 - Add knowledge from files
 
-1. Download this [**Microsoft case study**](https://download.microsoft.com/documents/customerevidence/Files/4000007499/SummitRealtyCaseStudy.docx) or [**SummitRealtyCaseStudy.docx**](../../Allfiles/SummitRealtyCaseStudy.docx) from GitHub.
+1. Download this [**Microsoft case study**](https://download.microsoft.com/documents/customerevidence/Files/4000007499/SummitRealtyCaseStudy.docx) or [**SummitRealtyCaseStudy.docx**](https://github.com/parveenkrraina/Copilot-Studio/blob/main/Allfiles/SummitRealtyCaseStudy.docx) from GitHub.
 
 > ℹ️ **NOTE:** The link to the Microsoft case study is here: `https://download.microsoft.com/documents/customerevidence/Files/4000007499/SummitRealtyCaseStudy.docx`
 
